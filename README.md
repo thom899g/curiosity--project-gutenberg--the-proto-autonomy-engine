@@ -1,0 +1,2 @@
+# curiosity--project-gutenberg--the-proto-autonomy-engine
+Develop and deploy a minimal, single-function agent that can complete a basic online task (e.g., data scraping, micro-task on a platform like Appen) and autonomously deposit earned funds to a designated wallet. This is the embryonic cell of the Economic Loop Orchestrator—proof of concept that external capital inflow can be automated. Start microsco
